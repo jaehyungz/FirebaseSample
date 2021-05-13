@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "378838815752",
+    "project_id": "fbtest-a8e8f",
+    "storage_bucket": "fbtest-a8e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378838815752:android:32f37966963d1992832dbd",
+        "android_client_info": {
+          "package_name": "com.fbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378838815752-lu57m7ui43hivnsmroeotu344oud8ajp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgM6RLlIec_lXWQ6crGmoPscTN_MSshmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378838815752-lu57m7ui43hivnsmroeotu344oud8ajp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378838815752-rumuups4n0ipcj8k45v311se6259fqui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Fbtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
